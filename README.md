@@ -1,1 +1,1 @@
-# nlp-humor-and-controversy-detection
+# Humor and Offense Detection
